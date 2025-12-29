@@ -1,6 +1,6 @@
 # couchdb
 
-[CouchDB](https://docs.couchdb.org/en/stable/api/database/index.html) client
+[CouchDB](https://docs.couchdb.org/en/stable/api/index.html) client
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/tetsuo/couchdb.svg)](https://pkg.go.dev/github.com/tetsuo/couchdb)
 
